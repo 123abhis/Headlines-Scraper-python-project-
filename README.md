@@ -12,7 +12,7 @@ File handling in Python (writing data into .txt files)
 
  1 Fetches the homepage of Times of India
 
-2  Extracts headlines dynamically from 
+2  Extracts headlines dynamically from h2 tag
 
 3 Saves the headlines into a .txt file
 
