@@ -8,17 +8,17 @@ Parsing and extracting structured data from HTML
 
 File handling in Python (writing data into .txt files)
 
-⚙️ Features
+> Features
 
-✅ Fetches the homepage of Times of India
+> Fetches the homepage of Times of India
 
-✅ Extracts headlines dynamically from <h2> tags
+> Extracts headlines dynamically from <h2> tags
 
-✅ Saves the headlines into a .txt file
+> Saves the headlines into a .txt file
 
-✅ Displays the headlines in the terminal for quick viewing
+> Displays the headlines in the terminal for quick viewing
 
-🚀 Tech Stack
+> Tech Stack
 
 Python 3
 
@@ -26,7 +26,7 @@ Requests (for fetching web pages)
 
 BeautifulSoup (bs4) (for parsing HTML)
 
-📂 Output Example
+>> Output Example
 
 headlines.txt will look like this:
 
@@ -40,7 +40,7 @@ H2 tag Headline : Headline 1
 H2 tag Headline : Headline 2
 ...
 
-🔧 How to Run
+> How to Run
 Clone the repository
 
 git clone https://github.com/your-username/times-of-india-scraper.git
@@ -53,7 +53,7 @@ pip install requests beautifulsoup4
 Run the script
 python scraper.py
 
-📌 Use Cases
+>  Use Cases
 Collecting news headlines for quick reading
 
 Practicing web scraping and text extraction
